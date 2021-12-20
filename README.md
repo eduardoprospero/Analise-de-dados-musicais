@@ -6,7 +6,10 @@ Com a chegada da internet, essa tendência vem diminuindo e cantores independent
 
 Nesse trabalho, tentaremos investigar os seguintes pontos, considerando dados da década de 2010:
 
-Quais gravadoras musicais têm mais influência na indústria?
-O quanto um artista ser premiado com um Grammy influencia nas notas do álbum dadas pelo público e pelos críticos.
-O quanto um artista ser premiado com um Grammy influencia nas vendas do álbum.
-Modelo de regressão para previsão da opinião pública acerca dos álbuns musicais.
+-Quais gravadoras musicais têm mais influência na indústria?
+
+-O quanto um artista ser premiado com um Grammy influencia nas notas do álbum dadas pelo público e pelos críticos.
+
+-O quanto um artista ser premiado com um Grammy influencia nas vendas do álbum.
+
+-Modelo de regressão para previsão da opinião pública acerca dos álbuns musicais.
